@@ -1,0 +1,12 @@
+{
+	"database" :
+	{
+		"host" : "localhost",
+		"user" : "root",
+		"password" : ""
+	},
+	"imdb" : 
+	{
+		"apiKey" : ""
+	}
+}
